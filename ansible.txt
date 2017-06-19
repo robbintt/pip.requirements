@@ -1,4 +1,9 @@
-# ansible and its dependencies
+
+```
+# Env: platformio
+# OS:Ubuntu 16.04.1 (since upgraded)
+# Date: 20161227
+```
 
 ansible==2.2.0.0
 cffi==1.9.1
