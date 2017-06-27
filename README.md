@@ -43,6 +43,8 @@ Paste this into the top of the new requirements file and fill it out.
 
 ### Example
 
+Don't use triple backticks when you paste this because they will cause issues in pip.
+
 ```
 # Env: platformio
 # OS:Ubuntu 16.04.2

@@ -1,8 +1,6 @@
-```
 # Env: platformio
 # OS:Ubuntu 16.04.2
 # Date: 20170619
-```
 
 arrow==0.10.0
 bottle==0.12.13
