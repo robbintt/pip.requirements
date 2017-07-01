@@ -1,0 +1,19 @@
+# Env: platformio
+# OS:macos
+# Date: 20170701
+
+arrow==0.10.0
+bottle==0.12.13
+certifi==2017.4.17
+chardet==3.0.4
+click==5.1
+colorama==0.3.9
+idna==2.5
+lockfile==0.12.2
+platformio==3.3.1
+pyserial==3.3
+python-dateutil==2.6.0
+requests==2.18.1
+semantic-version==2.6.0
+six==1.10.0
+urllib3==1.21.1
