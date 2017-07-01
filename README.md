@@ -14,6 +14,9 @@ To maintain a requirements file:
 
 1. Make a new environment and replace the relevant `requirements.txt`. 
 2. Activate a virtualenv and upgrade everything; replace the relevant `requirements.txt`.
+    - Upgrade individual packages manually or do a fresh pip install of the core dependencies
+    - Upgrading is a major weakness of this way of doing things, most upgrade-all scripts are hackish
+    - apparently `pip-tools` can upgrade all packages with `pip-compile --upgrade`
 
 
 ### System Setup
